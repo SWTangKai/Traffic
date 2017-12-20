@@ -1,0 +1,4 @@
+paper/refer/*
+Sign/data/*
+Sign/code/__pycache__/*
+Sign/notebook/__pycache__/*
